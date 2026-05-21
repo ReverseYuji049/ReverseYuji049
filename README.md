@@ -13,7 +13,7 @@
   <a href="mailto:yuji.toda2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Profissional">
   </a>
-  <a href="#link-ficará-aqui-em-breve!">
+  <a href="https://www.linkedin.com/in/henrique-yuji-toda-9a0aa240b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profissional">
   </a>
 </p>
