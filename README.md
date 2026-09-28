@@ -51,6 +51,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849be)
 
+### 📊 Análise e Visualização de Dados
+
+![Pandas](https://shields.io)
+![Seaborn](https://shields.io)
+![Matplotlib](https://shields.io)
+
 ### 🎨 Design & Prototipagem
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
@@ -67,7 +73,7 @@
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)
 
-### 📊 Produtividade & Office
+### 📊 Office
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
