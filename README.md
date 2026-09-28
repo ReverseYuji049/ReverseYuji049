@@ -23,6 +23,7 @@
 
 ### 📖 Sobre Mim
 * 🎓 Graduando em **Engenharia de Software** (UniFil - Centro Universitário Filadélfia).
+* 🚀 **Estagiário Bootcamp II** (Trilha I.A) - Tata Consultancy Services
 * 🛡️ **Aluno Tutor Google** - Especialista em produtividade e colaboração.
 * 🎮 **Vice-líder de Gestão** no Grupo de P&D de Jogos: **Obscura**.
 * 🚀 **Aluno** (2024) e **Monitor** (2025) do projeto de extensão **Pensamento Computacional**.
@@ -32,7 +33,7 @@
 ### 🛠️ Minha Stack Tecnológica
 <hr>
 
-  ### 💻 Tecnologias & Linguagens
+### 💻 Tecnologias & Linguagens
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,9 +54,15 @@
 
 ### 📊 Análise e Visualização de Dados
 
-![Pandas](https://shields.io)
-![Seaborn](https://shields.io)
-![Matplotlib](https://shields.io)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🎮 Desenvolvimento de Jogos
+![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### 🎨 Design & Prototipagem
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -67,6 +74,9 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Webstorm](https://img.shields.io/badge/webstorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 
 ### 🎓 Google Aluno Tutor & Produtividade
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
