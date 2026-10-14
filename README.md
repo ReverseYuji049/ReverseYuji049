@@ -28,7 +28,7 @@
 * 🎓 Graduando em **Engenharia de Software** (UniFil - Centro Universitário Filadélfia).
 * 🚀 **Estagiário Bootcamp II** (Trilha I.A) - Tata Consultancy Services
 * 🛡️ **Aluno Tutor Google** - Especialista em produtividade e colaboração.
-* 🎮 **Vice-líder de Gestão** no Grupo de P&D de Jogos: **Obscura**.
+* 🎮 **Vice-líder de Gestão** e **Líder de Design** no Grupo de P&D de Jogos: **Obscura**.
 * 🚀 **Aluno** (2024) e **Monitor** (2025) do projeto de extensão **Pensamento Computacional**.
 
 <br>
