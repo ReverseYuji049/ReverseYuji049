@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/henrique-yuji-toda-9a0aa240b/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profissional">
   </a>
+  <a href="https://gitlab.com/ReverseYuji049">
+    <img src="https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab" alt="Gitlab">
+  </a>
 </p>
 
 <hr>
